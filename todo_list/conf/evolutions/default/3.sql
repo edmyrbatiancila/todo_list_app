@@ -1,0 +1,13 @@
+--!Ups
+CREATE TABLE "LISTS" (
+    "ID"            SERIAL PRIMARY KEY,
+    "ID_USER"       UUID REFERENCES "USERS"("ID") NOT NULL,
+    "TASK"          VARCHAR(255) NOT NULL,
+    "STATUS"        VARCHAR(255) NOT NULL,
+    "DESCRIPTION"   TEXT,
+    "IS_HIDDEN"     BOOLEAN,
+    "DUE"           TIMESTAMP
+);
+
+--!Downs
+DROP TABLE "LISTS";
