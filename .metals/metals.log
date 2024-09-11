@@ -1548,3 +1548,7 @@ Caused by: java.io.IOException: Broken pipe
 2024.09.11 14:40:08 INFO  time: indexed workspace in 2m29s
 2024.09.11 14:40:12 INFO  Deduplicating compilation of root-test from bsp client 'Metals 1.3.5' (since 4m 59.855s)
 2024.09.11 14:40:12 INFO  compiling root-test (1 scala source)
+2024.09.11 14:40:42 INFO  time: compiled root-test in 30s
+2024.09.11 14:40:42 WARN  Disconnecting from deduplication of ongoing compilation for 'root-test'
+No progress update for 30 seconds caused bloop to cancel compilation and schedule a new compile.
+2024.09.11 14:40:42 INFO  compiling root-test (1 scala source)
