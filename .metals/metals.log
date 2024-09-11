@@ -1552,3 +1552,4 @@ Caused by: java.io.IOException: Broken pipe
 2024.09.11 14:40:42 WARN  Disconnecting from deduplication of ongoing compilation for 'root-test'
 No progress update for 30 seconds caused bloop to cancel compilation and schedule a new compile.
 2024.09.11 14:40:42 INFO  compiling root-test (1 scala source)
+2024.09.11 14:41:02 INFO  time: compiled root-test in 19s
