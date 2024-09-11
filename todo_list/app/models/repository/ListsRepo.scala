@@ -23,12 +23,12 @@ class ListsRepo @Inject()(val dcp: DatabaseConfigProvider)(using ec: ExecutionCo
         val due             = column[LocalDateTime]("DUE")
         val isHidden        = column[Boolean]("IS_HIDDEN", O.Default(false))
 
-        def *               = (id, idUser, task, status, description, due, isHidden).mapTo[ListsTable]
+        def *               = (id, idUser, task, status, description, due, isHidden).mapTo[Lists]
     }
 
     val lists = TableQuery[ListsTable]
 
-    def add(idUser: UUID, task: String, description: String, due: LocalDateTime) = {
+    def add(idUser: UUID, task: String, status: String, description: String, due: LocalDateTime) = {
         val query = lists += Lists(task, status, description, due, idUser = idUser)
         db.run(query)
     }
@@ -38,7 +38,7 @@ class ListsRepo @Inject()(val dcp: DatabaseConfigProvider)(using ec: ExecutionCo
         db.run(query)
     }
 
-    def get(id: Int) = {
+    def get(id: Int, isHidden: Boolean) = {
         val query = lists.filter(l => l.id === id && l.isHidden === isHidden).result
         db.run(query)
     }

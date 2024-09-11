@@ -1,4 +1,4 @@
---!Ups
+-- !Ups
 CREATE TABLE "LISTS" (
     "ID"            SERIAL PRIMARY KEY,
     "ID_USER"       UUID REFERENCES "USERS"("ID") NOT NULL,
@@ -9,5 +9,5 @@ CREATE TABLE "LISTS" (
     "DUE"           TIMESTAMP
 );
 
---!Downs
+-- !Downs
 DROP TABLE "LISTS";

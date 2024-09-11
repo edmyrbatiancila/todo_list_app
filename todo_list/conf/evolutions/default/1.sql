@@ -1,4 +1,4 @@
---!Ups
+-- !Ups
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 CREATE TABLE "USERS"(
@@ -14,7 +14,7 @@ CREATE TABLE "USERS_AUTH"(
     "IP_ADDRESS"    VARCHAR(20)
 );
 
---!Downs 
+-- !Downs 
 DROP TABLE "USERS_AUTH";
 DROP TABLE "USERS";
 DROP EXTENSION "uuid-ossp";

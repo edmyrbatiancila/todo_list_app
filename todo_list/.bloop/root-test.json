@@ -24,11 +24,12 @@
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-pekko-http-server_3/3.0.5/play-pekko-http-server_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-filters-helpers_3/3.0.5/play-filters-helpers_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-guice_3/3.0.5/play-guice_3-3.0.5.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.5/play-jdbc-evolutions_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/play/scalatestplus-play_3/7.0.1/scalatestplus-play_3-7.0.1.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.7.4/postgresql-42.7.4.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.1/play-slick_3-6.1.1.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.1/play-slick-evolutions_3-6.1.1.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.0/postgresql-42.5.0.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.0/play-slick_3-6.1.0.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.0/play-slick-evolutions_3-6.1.0.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.3m/jbcrypt-0.3m.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_3/2.2.0/scala-xml_3-2.2.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play_3/3.0.5/play_3-3.0.5.jar",
@@ -45,17 +46,16 @@
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/inject/extensions/guice-assistedinject/6.0.0/guice-assistedinject-6.0.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-streams_3/3.0.5/play-streams_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/pekko/pekko-http-core_3/1.0.1/pekko-http-core_3-1.0.1.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.5/play-jdbc-api_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-ahc-ws_3/3.0.0/play-ahc-ws_3-3.0.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_3/3.2.17/scalatest_3-3.2.17.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/mockito-4-11_3/3.2.17.0/mockito-4-11_3-3.2.17.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/selenium-4-12_3/3.2.17.0/selenium-4-12_3-3.2.17.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-java/4.15.0/selenium-java-4.15.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/net/sourceforge/htmlunit/htmlunit-cssparser/1.14.0/htmlunit-cssparser-1.14.0.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.1/slick_3-3.5.1.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.1/slick-hikaricp_3-3.5.1.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.4/play-jdbc-api_3-3.0.4.jar",
-            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.4/play-jdbc-evolutions_3-3.0.4.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.0/slick_3-3.5.0.jar",
+            "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.0/slick-hikaricp_3-3.5.0.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-build-link/3.0.5/play-build-link-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-configuration_3/3.0.5/play-configuration_3-3.0.5.jar",
             "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar",
@@ -494,70 +494,87 @@
                     ]
                 },
                 {
+                    "organization": "org.playframework",
+                    "name": "play-jdbc-evolutions_3",
+                    "version": "3.0.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "play-jdbc-evolutions_3",
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.5/play-jdbc-evolutions_3-3.0.5.jar"
+                        },
+                        {
+                            "name": "play-jdbc-evolutions_3",
+                            "classifier": "sources",
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.5/play-jdbc-evolutions_3-3.0.5-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.postgresql",
                     "name": "postgresql",
-                    "version": "42.7.4",
+                    "version": "42.5.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "postgresql",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.7.4/postgresql-42.7.4.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.0/postgresql-42.5.0.jar"
                         },
                         {
                             "name": "postgresql",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.7.4/postgresql-42.7.4-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.0/postgresql-42.5.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.playframework",
                     "name": "play-slick_3",
-                    "version": "6.1.1",
+                    "version": "6.1.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "play-slick_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.1/play-slick_3-6.1.1.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.0/play-slick_3-6.1.0.jar"
                         },
                         {
                             "name": "play-slick_3",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.1/play-slick_3-6.1.1-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick_3/6.1.0/play-slick_3-6.1.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.playframework",
                     "name": "play-slick-evolutions_3",
-                    "version": "6.1.1",
+                    "version": "6.1.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "play-slick-evolutions_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.1/play-slick-evolutions_3-6.1.1.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.0/play-slick-evolutions_3-6.1.0.jar"
                         },
                         {
                             "name": "play-slick-evolutions_3",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.1/play-slick-evolutions_3-6.1.1-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-slick-evolutions_3/6.1.0/play-slick-evolutions_3-6.1.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.mindrot",
                     "name": "jbcrypt",
-                    "version": "0.4",
+                    "version": "0.3m",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "jbcrypt",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.3m/jbcrypt-0.3m.jar"
                         },
                         {
                             "name": "jbcrypt",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.4/jbcrypt-0.4-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mindrot/jbcrypt/0.3m/jbcrypt-0.3m-sources.jar"
                         }
                     ]
                 },
@@ -698,87 +715,70 @@
                     ]
                 },
                 {
+                    "organization": "org.playframework",
+                    "name": "play-jdbc-api_3",
+                    "version": "3.0.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "play-jdbc-api_3",
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.5/play-jdbc-api_3-3.0.5.jar"
+                        },
+                        {
+                            "name": "play-jdbc-api_3",
+                            "classifier": "sources",
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.5/play-jdbc-api_3-3.0.5-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.checkerframework",
                     "name": "checker-qual",
-                    "version": "3.42.0",
+                    "version": "3.37.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "checker-qual",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar"
                         },
                         {
                             "name": "checker-qual",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.typesafe.slick",
                     "name": "slick_3",
-                    "version": "3.5.1",
+                    "version": "3.5.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "slick_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.1/slick_3-3.5.1.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.0/slick_3-3.5.0.jar"
                         },
                         {
                             "name": "slick_3",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.1/slick_3-3.5.1-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_3/3.5.0/slick_3-3.5.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.typesafe.slick",
                     "name": "slick-hikaricp_3",
-                    "version": "3.5.1",
+                    "version": "3.5.0",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "slick-hikaricp_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.1/slick-hikaricp_3-3.5.1.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.0/slick-hikaricp_3-3.5.0.jar"
                         },
                         {
                             "name": "slick-hikaricp_3",
                             "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.1/slick-hikaricp_3-3.5.1-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.playframework",
-                    "name": "play-jdbc-api_3",
-                    "version": "3.0.4",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "play-jdbc-api_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.4/play-jdbc-api_3-3.0.4.jar"
-                        },
-                        {
-                            "name": "play-jdbc-api_3",
-                            "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-api_3/3.0.4/play-jdbc-api_3-3.0.4-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.playframework",
-                    "name": "play-jdbc-evolutions_3",
-                    "version": "3.0.4",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "play-jdbc-evolutions_3",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.4/play-jdbc-evolutions_3-3.0.4.jar"
-                        },
-                        {
-                            "name": "play-jdbc-evolutions_3",
-                            "classifier": "sources",
-                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/org/playframework/play-jdbc-evolutions_3/3.0.4/play-jdbc-evolutions_3-3.0.4-sources.jar"
+                            "path": "/home/rymdelee/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_3/3.5.0/slick-hikaricp_3-3.5.0-sources.jar"
                         }
                     ]
                 },
