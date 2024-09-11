@@ -40,3 +40,4 @@ class UsersRepo @Inject()(dcp: DatabaseConfigProvider, auth: UsersAuthRepo)(usin
         val query = users .filter(u => u.username === username).result.headOption
         db.run(query)
 }
+
