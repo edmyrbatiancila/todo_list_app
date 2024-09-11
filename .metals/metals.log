@@ -1444,3 +1444,107 @@ WARNING: Unmatched cancel notification for request id 3716
 2024.09.11 13:47:40 INFO  time: compiled root in 0.39s
 2024.09.11 13:47:43 INFO  compiling root (1 scala source)
 2024.09.11 13:47:44 INFO  time: compiled root in 1.43s
+2024.09.11 14:31:37 INFO  time: code lens generation in 1.44s
+2024.09.11 14:32:32 WARN  Could not load snapshot text for /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/app/models/repository/UsersRepo.scala
+2024.09.11 14:32:48 WARN  Could not load snapshot text for /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/app/models/repository/UsersRepo.scala
+2024.09.11 14:32:53 INFO  compiling root (1 scala source)
+2024.09.11 14:32:58 WARN  Could not load snapshot text for /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/app/models/repository/UsersRepo.scala
+2024.09.11 14:33:03 WARN  Could not load snapshot text for /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/app/models/repository/UsersRepo.scala
+2024.09.11 14:33:40 INFO  time: compiled root in 47s
+2024.09.11 14:34:55 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+Sep 11, 2024 2:34:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3819
+Sep 11, 2024 2:34:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3817
+Sep 11, 2024 2:34:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3815
+2024.09.11 14:34:57 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+Sep 11, 2024 2:34:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3827
+Sep 11, 2024 2:34:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3822
+Sep 11, 2024 2:34:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3826
+Sep 11, 2024 2:34:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3823
+2024.09.11 14:34:58 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:00 INFO  time: code lens generation in 1.68s
+Sep 11, 2024 2:35:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3829
+Sep 11, 2024 2:35:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3830
+2024.09.11 14:35:00 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:00 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:00 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:01 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:00 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:03 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:04 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-fN8MNSLMTJiy3RtNamAHeg== does not exist
+2024.09.11 14:35:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/.metals/bsp.trace.json or /home/rymdelee/.cache/metals/bsp.trace.json
+2024.09.11 14:35:12 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.11 14:35:23 INFO  time: Imported build in 9.78s
+2024.09.11 14:35:24 INFO  running doctor check
+2024.09.11 14:35:24 INFO  java targets: root, root-test
+2024.09.11 14:36:16 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2024.09.11 14:36:30 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2024.09.11 14:36:30 INFO  time: indexed workspace in 1m6s
+2024.09.11 14:36:41 INFO  compiling root-test (1 scala source)
+2024.09.11 14:37:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/.metals/bsp.trace.json or /home/rymdelee/.cache/metals/bsp.trace.json
+2024.09.11 14:37:26 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.11 14:37:37 WARN  Target root /home/rymdelee/Desktop/PlayFrameWork_Practice/todo_list_app/todo_list/.bloop/root/bloop-bsp-clients-classes/classes-Metals-xHVZ3AZDSX6tBFZyp_lxxQ== does not exist
+2024.09.11 14:37:39 INFO  time: Imported build in 12s
+2024.09.11 14:37:39 INFO  running doctor check
+2024.09.11 14:37:39 INFO  java targets: root, root-test
+2024.09.11 14:39:31 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:287)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+Sep 11, 2024 2:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+WARNING: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$.$anonfun$apply$4(FutureWithTimeout.scala:54)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.UnixFileDispatcherImpl.write0(Native Method)
+	at java.base/sun.nio.ch.UnixFileDispatcherImpl.write(UnixFileDispatcherImpl.java:65)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:102)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:58)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:314)
+	at java.base/sun.nio.ch.ChannelOutputStream.writeFully(ChannelOutputStream.java:68)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:102)
+	at java.base/java.io.OutputStream.write(OutputStream.java:124)
+	at java.base/sun.nio.ch.ChannelOutputStream.write(ChannelOutputStream.java:79)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 13 more
+
+2024.09.11 14:40:04 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2024.09.11 14:40:08 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2024.09.11 14:40:08 INFO  time: indexed workspace in 2m29s
+2024.09.11 14:40:12 INFO  Deduplicating compilation of root-test from bsp client 'Metals 1.3.5' (since 4m 59.855s)
+2024.09.11 14:40:12 INFO  compiling root-test (1 scala source)

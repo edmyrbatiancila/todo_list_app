@@ -8,4 +8,6 @@ import org.mindrot.jbcrypt.BCrypt
 import java.util.UUID
 
 @Singleton
-class UsersRepo @Inject()(dcp: DatabaseConfigProvider)
+class UsersRepo @Inject()(dcp: DatabaseConfigProvider) {
+    
+}
