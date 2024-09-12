@@ -3,22 +3,48 @@ package controllers
 import javax.inject._
 import play.api._
 import play.api.mvc._
+import play.api.libs.json._
+import models.users._
+import scala.util.{ Try, Success, Failure }
+import scala.concurrent.{ Future, ExecutionContext }
+import java.time.LocalDateTime
 
-/**
- * This controller creates an `Action` to handle HTTP requests to the
- * application's home page.
- */
 @Singleton
-class HomeController @Inject()(val controllerComponents: ControllerComponents) extends BaseController {
+class HomeController @Inject()(val controllerComponents: ControllerComponents, users: UsersRepo, auth: UsersAuthRepo)(using ec: ExecutionContext) extends BaseController {
 
-  /**
-   * Create an Action to render an HTML page.
-   *
-   * The configuration in the `routes` file means that this method
-   * will be called when the application receives a `GET` request with
-   * a path of `/`.
-   */
   def index() = Action { implicit request: Request[AnyContent] =>
-    Ok(views.html.index())
+    val userId = request.session.get("user_id")
+    userId match {
+      case Some(value)  => 
+        Redirect("/home")
+      case None         =>
+        Ok(views.html.index())
+    }
+  }
+
+  def register() = Action { implicit request: Request[AnyContent] =>
+    Ok(views.html.register())
+  }
+
+  def get() = Action(parse.json).async { request =>
+    request.body.validate[Users].map( user =>
+      users.get(user.username, user.password).map( user =>
+        user match {
+          case Some(user) =>
+            auth.authenticate(user.id, true)
+            Ok(Json.obj("Message" -> "Success")).withSession("user_id" -> user.id.toString)
+          case None =>
+            Ok(Json.obj("Message" -> "Not Found"))
+        }
+      )
+    ).getOrElse {
+      Future(BadRequest)
+    }
+  }
+
+  def addUser() = Action(parse.json).async { request =>
+    request.body.validate[Users].map( user =>
+        
+    )
   }
 }

@@ -20,8 +20,8 @@ class ListsRepo @Inject()(val dcp: DatabaseConfigProvider)(using ec: ExecutionCo
         val task            = column[String]("TASK", O.Length(255, true))
         val status          = column[String]("STATUS", O.Length(255, true))
         val description     = column[String]("DESCRIPTION")
-        val due             = column[LocalDateTime]("DUE")
         val isHidden        = column[Boolean]("IS_HIDDEN", O.Default(false))
+        val due             = column[LocalDateTime]("DUE")
 
         def *               = (id, idUser, task, status, description, due, isHidden).mapTo[Lists]
     }
