@@ -14,7 +14,7 @@ class UsersAuthRepo @Inject()(val dcp: DatabaseConfigProvider)(using ec: Executi
     import profile.api._
 
     class UsersAuthTable(tag: Tag) extends Table[UsersAuth](tag, "USERS_AUTH") {
-        def idUser          = column[UUID]("ID", O.PrimaryKey, O.Default(UUID.randomUUID))
+        def idUser          = column[UUID]("ID_USER", O.PrimaryKey, O.Default(UUID.randomUUID))
         def isSuccess       = column[Boolean]("IS_SUCCESS")
         def attemptAt       = column[Instant]("ATTEMPT_AT")
         def ip              = column[String]("IP_ADDRESS")
