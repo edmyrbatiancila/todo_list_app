@@ -44,7 +44,21 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents, u
 
   def addUser() = Action(parse.json).async { request =>
     request.body.validate[Users].map( user =>
-        
-    )
+        users.get(user.username)
+        .flatMap{ userRes =>
+          userRes match {
+            case Some(u)  =>
+              println(u)
+              Future(Ok(Json.obj("Message" -> s"Username Invalid")))
+            case None     =>
+              users.add(user.username, user.password).map( u =>
+                Ok(Json.obj("Message" -> "Success"))
+              )
+          }
+
+        }
+    ).getOrElse {
+      Future(BadRequest)
+    }
   }
 }
